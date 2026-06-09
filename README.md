@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 09, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,9 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Airwallex SG](https://www.airwallex.com/sg)** | **[Staff Software Engineer, New Products](https://jobr.pro/job/41073304/staff-software-engineer-new-products?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | UK - London | Remote | Jun 08 |
-| **[Airwallex SG](https://www.airwallex.com/sg)** | **[Senior Software Engineer, New Products](https://jobr.pro/job/41073303/senior-software-engineer-new-products?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | UK - London | Remote | Jun 08 |
+| **[Airwallex SG](https://www.airwallex.com)** | **[Staff Software Engineer, New Products](https://jobr.pro/job/41073556/staff-software-engineer-new-products?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | UK - London | Remote | Jun 08 |
+| **[Airwallex SG](https://www.airwallex.com)** | **[Senior Software Engineer, New Products](https://jobr.pro/job/41073555/senior-software-engineer-new-products?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | UK - London | Remote | Jun 08 |
 | **[Scale AI](https://scale.com)** | **[Software Engineer](https://jobr.pro/job/41072292/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 08 |
+| **[Addepar](https://addepar.com)** | **[Staff Software Engineer - Platform Services](https://jobr.pro/job/41074034/staff-software-engineer-platform-services?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Edinburgh, UK | On Site | Jun 08 |
 | **[Slingshot AI](https://SlingshotAI.io)** | **[AI Native Software Engineer](https://jobr.pro/job/41068346/ai-native-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 07 |
 | **[Roku](https://www.weareroku.com/)** | **[Senior Software Engineer, Ads Auction Platform](https://jobr.pro/job/41055332/senior-software-engineer-ads-auction-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Manchester, United Kingdom | On Site | Jun 05 |
 | **[Abound](http://abound.college)** | **[Software Engineer Graduate](https://jobr.pro/job/41059940/software-engineer-graduate?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 05 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Algolia](https://algolia.com)** | **[Senior Software Engineer - Search Platform](https://jobr.pro/job/41015953/senior-software-engineer-search-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England | On Site | Jun 02 |
 | **[Anyone AI](https://www.anyoneai.com/)** | **[Software Engineering AI Trainer (UK)](https://jobr.pro/job/41023326/software-engineering-ai-trainer-uk?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom | Remote | Jun 02 |
 | **[Tripadvisor](https://tripadvisor.com)** | **[Software Engineer II - iOS](https://jobr.pro/job/41019377/software-engineer-ii-ios?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom | On Site | Jun 02 |
-| **[Deliveroo](https://deliveroo.co.uk/)** | **[Senior Software Engineer, Event Streaming Systems](https://jobr.pro/job/41015455/senior-software-engineer-event-streaming-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London - The River Building HQ | On Site | Jun 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 32% remote | 38 companies | Avg salary: 1.1119196184695001e+84k  
+**Current Stats:** 50 jobs | 32% remote | 37 companies | Avg salary: 1.1119196184695001e+84k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai, nodejs  
