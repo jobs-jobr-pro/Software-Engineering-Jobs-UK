@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 10, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 10, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -15,7 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Elliptic](https://www.elliptic.co)** | **[Software Engineering Lead](https://jobr.pro/job/41111591/software-engineering-lead?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, United Kingdom | Remote | Jun 09 |
 | **[Tripadvisor](https://tripadvisor.cn)** | **[Software Engineer II](https://jobr.pro/job/41111261/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 09 |
-| **[Abound](https://www.getabound.com)** | **[Software Engineer](https://jobr.pro/job/41107071/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 09 |
+| **[Abound](http://abound.college)** | **[Software Engineer](https://jobr.pro/job/41115486/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 09 |
 | **[Robinhood](https://robinhood.com)** | **[Staff Software Engineer](https://jobr.pro/job/41099723/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 09 |
 | **[ARQ](https://arq.com)** | **[Software Engineer (Java Backend)](https://jobr.pro/job/41110328/software-engineer-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 09 |
 | **[Nebius](https://nebius.com)** | **[Senior Software Engineer (Managed PostgreSQL)](https://jobr.pro/job/41087529/senior-software-engineer-managed-postgresql?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Amsterdam, Netherlands; Germany; United Kingdom | On Site | Jun 09 |
