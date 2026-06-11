@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 11, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 11, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Neo4j](https://neo4j.com)** | **[Software Engineer - Kubernetes & Go](https://jobr.pro/job/41153815/software-engineer-kubernetes-go?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 11 |
+| **[Anthropic](https://www.anthropic.com)** | **[Staff+ Software Engineer, Developer Productivity](https://jobr.pro/job/41149464/staff-software-engineer-developer-productivity?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 11 |
+| **[Wise](https://wise.com/)** | **[Senior Software Engineer - Marketing Platform](https://jobr.pro/job/41151523/senior-software-engineer-marketing-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 11 |
+| **[Rightmove Careers]()** | **[Software Engineer (AI Enablement)](https://jobr.pro/job/41151517/software-engineer-ai-enablement?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 11 |
 | **[Sierra](https://sierra.ai/)** | **[Software Engineer, Agent (Dutch speaking)](https://jobr.pro/job/41142209/software-engineer-agent-dutch-speaking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 10 |
 | **[Checkout.com](https://www.checkout.com/)** | **[Software Engineer I](https://jobr.pro/job/41138308/software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 10 |
 | **[Nearform](https://nearform.com)** | **[Senior AI Software Engineer Javascript or Python (Perm, London, on-site 4 days per week)](https://jobr.pro/job/41132873/senior-ai-software-engineer-javascript-or-python-perm-london-on-site-4-days-per-week?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | UK | On Site | Jun 10 |
@@ -59,17 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Heidi AI](https://www.heidihealth.com/)** | **[Senior Software Engineer - (Clinical AI) - UK](https://jobr.pro/job/41055217/senior-software-engineer-clinical-ai-uk?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 05 |
 | **[OpenAI](https://openai.com/)** | **[Software Engineer, Infrastructure Reliability](https://jobr.pro/job/41052523/software-engineer-infrastructure-reliability?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 05 |
 | **[Foundation Health](https://www.foundationhealth.com/)** | **[Staff Software Engineer](https://jobr.pro/job/41059484/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 05 |
-| **[Foundation Health](https://www.foundationhealth.com/)** | **[Senior Software Engineer](https://jobr.pro/job/41059482/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Manchester | Remote | Jun 05 |
-| **[ClickHouse](https://clickhouse.com)** | **[Software Engineer - Database Integrations](https://jobr.pro/job/41052116/software-engineer-database-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom | On Site | Jun 05 |
-| **[Obsidian Security](https://obsidiansecurity.com)** | **[Senior Software Engineer – Customer Platform Engineering](https://jobr.pro/job/41051837/senior-software-engineer-customer-platform-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Manchester, United Kingdom | On Site | Jun 05 |
-| **[Forgotten Empires](https://www.forgottenempires.net/)** | **[Senior Software Engineer (Remote) - Talent Pipeline](https://jobr.pro/job/41066176/senior-software-engineer-remote-talent-pipeline?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom | Remote | Jun 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 50% remote | 39 companies | Avg salary: 2.8636373727325456e+60k  
+**Current Stats:** 50 jobs | 48% remote | 38 companies | Avg salary: 3.5454574090919184e+60k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** python, ai, javascript, nodejs  
+**Trending Skills:** python, kubernetes, ai, javascript, nodejs  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
