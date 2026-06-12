@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 12, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 12, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CHAOS Industries](https://chaosindustries.com.mx)** | **[Forward Deployed Engineer - Software](https://jobr.pro/job/41167494/forward-deployed-engineer-software?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 11 |
 | **[Fanatics Betting & Gaming]()** | **[Senior Software Engineer - Backend](https://jobr.pro/job/41157382/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 11 |
 | **[Neo4j](https://neo4j.com)** | **[Software Engineer - Kubernetes & Go](https://jobr.pro/job/41153815/software-engineer-kubernetes-go?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 11 |
 | **[Anthropic](https://www.anthropic.com)** | **[Staff+ Software Engineer, Developer Productivity](https://jobr.pro/job/41149464/staff-software-engineer-developer-productivity?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 11 |
@@ -62,14 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Williams Racing](https://www.williamsf1.com)** | **[Lead Software Engineer](https://jobr.pro/job/41127673/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Grove, Wantage, , United Kingdom | Remote | Jun 05 |
 | **[Addepar](https://addepar.com)** | **[Staff Backend Software Engineer - Portfolio Data Workflows](https://jobr.pro/job/41054936/staff-backend-software-engineer-portfolio-data-workflows?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Edinburgh, UK | On Site | Jun 05 |
 | **[Causaly](https://www.causaly.com/)** | **[Senior Software Engineer](https://jobr.pro/job/41077433/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 05 |
-| **[FanDuel](https://fanduel.com)** | **[Senior Software Engineer - NodeJS](https://jobr.pro/job/41053586/senior-software-engineer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Edinburgh, Scotland, United Kingdom | On Site | Jun 05 |
 
 ---
 
 **Current Stats:** 50 jobs | 44% remote | 38 companies | Avg salary: 3.545463184483182e+59k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** python, kubernetes, ai, javascript, nodejs  
+**Trending Skills:** python, kubernetes, ai, javascript  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
