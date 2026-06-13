@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 12, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ARQ](https://arq.com)** | **[Senior Software Engineer (Java)](https://jobr.pro/job/41177768/senior-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 12 |
+| **[ARQ](https://arq.com)** | **[Software Engineer (Java Backend)](https://jobr.pro/job/41177765/software-engineer-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 12 |
 | **[Experian](https://www.experian.com)** | **[Senior Software Engineer - Python](https://jobr.pro/job/41172099/senior-software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | Remote | Jun 12 |
 | **[Smiths Group](https://www.smiths.com)** | **[Graduate Software Engineer (Data, Analytics, Automation & AI) 2 Years FTC](https://jobr.pro/job/41172092/graduate-software-engineer-data-analytics-automation-ai-2-years-ftc?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Birmingham, England, United Kingdom | On Site | Jun 12 |
 | **[Anaplan](https://anaplan.com)** | **[Senior Backend Software Engineer (Python)](https://jobr.pro/job/41174616/senior-backend-software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Manchester, United Kingdom | On Site | Jun 12 |
@@ -20,6 +22,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wayve](https://wayvent.com)** | **[Embedded Automotive Platforms Software Engineer](https://jobr.pro/job/41172013/embedded-automotive-platforms-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 12 |
 | **[Jobs for Humanity](https://www.jobsforhumanity.com)** | **[Senior Software Engineer](https://jobr.pro/job/41169514/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | On Site | Jun 12 |
 | **[PlayStation Global]()** | **[Senior Software Engineer](https://jobr.pro/job/41171365/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom, London | On Site | Jun 12 |
+| **[PortSwigger](https://portswigger.net)** | **[Software Engineer](https://jobr.pro/job/41177148/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Knutsford, England, United Kingdom | On Site | Jun 12 |
+| **[OpenWorks Engineering](http://openworksengineering.com)** | **[Senior Software Engineer](https://jobr.pro/job/41177145/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Prudhoe, England, United Kingdom | On Site | Jun 12 |
 | **[OpenWorks Engineering](http://openworksengineering.com)** | **[Customer Services Software Engineer](https://jobr.pro/job/41169484/customer-services-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Prudhoe, England, United Kingdom | On Site | Jun 12 |
 | **[CHAOS Industries](https://chaosindustries.com.mx)** | **[Forward Deployed Engineer - Software](https://jobr.pro/job/41167494/forward-deployed-engineer-software?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 11 |
 | **[Fanatics Betting & Gaming]()** | **[Senior Software Engineer - Backend](https://jobr.pro/job/41157382/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 11 |
@@ -42,7 +46,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tripadvisor](https://tripadvisor.cn)** | **[Software Engineer II](https://jobr.pro/job/41111261/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 09 |
 | **[Abound](http://abound.college)** | **[Software Engineer](https://jobr.pro/job/41115486/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 09 |
 | **[Robinhood](https://robinhood.com)** | **[Staff Software Engineer](https://jobr.pro/job/41099723/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 09 |
-| **[ARQ](https://ARQ.com)** | **[Software Engineer (Java Backend)](https://jobr.pro/job/41126820/software-engineer-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 09 |
 | **[Nebius](https://nebius.com)** | **[Senior Software Engineer (Managed PostgreSQL)](https://jobr.pro/job/41087529/senior-software-engineer-managed-postgresql?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Amsterdam, Netherlands; Germany; United Kingdom | On Site | Jun 09 |
 | **[Neo4j](https://neo4j.com)** | **[Software Engineer - IAM, Aura](https://jobr.pro/job/41108980/software-engineer-iam-aura?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 09 |
 | **[Neo4j](https://neo4j.com)** | **[Software Engineer - Platform Security](https://jobr.pro/job/41108982/software-engineer-platform-security?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 09 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Scale AI](https://scale.com)** | **[Software Engineer](https://jobr.pro/job/41072292/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 08 |
 | **[Causaly](https://www.causaly.com/)** | **[Staff Software Engineer](https://jobr.pro/job/41077432/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 08 |
 | **[Wise](https://wise.com/)** | **[Senior Software Engineer I - Servicing Platform](https://jobr.pro/job/41123082/senior-software-engineer-i-servicing-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 08 |
-| **[Addepar](https://addepar.com)** | **[Staff Software Engineer - Platform Services](https://jobr.pro/job/41074034/staff-software-engineer-platform-services?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Edinburgh, UK | On Site | Jun 08 |
-| **[Wise](https://wise.com/)** | **[Senior Software Engineer I - Europe Onboarding Experience](https://jobr.pro/job/41123084/senior-software-engineer-i-europe-onboarding-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | Remote | Jun 08 |
-| **[Wise](https://wise.com/)** | **[Senior Software Engineer I - Regional Expansion](https://jobr.pro/job/41123085/senior-software-engineer-i-regional-expansion?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | Remote | Jun 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 39 companies | Avg salary: 3.9000095029315e+53k  
+**Current Stats:** 50 jobs | 34% remote | 39 companies | Avg salary: 4.875011878664375e+41k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, kubernetes, ai, javascript  
