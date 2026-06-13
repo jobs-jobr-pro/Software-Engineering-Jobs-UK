@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,8 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[ARQ](https://arq.com)** | **[Senior Software Engineer (Java)](https://jobr.pro/job/41177768/senior-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 12 |
-| **[ARQ](https://arq.com)** | **[Software Engineer (Java Backend)](https://jobr.pro/job/41177765/software-engineer-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 12 |
+| **[ARQ](https://arq.com)** | **[Senior Software Engineer (Java)](https://jobr.pro/job/41184403/senior-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 12 |
+| **[ARQ](https://arq.com)** | **[Software Engineer (Java Backend)](https://jobr.pro/job/41184400/software-engineer-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 12 |
 | **[Experian](https://www.experian.com)** | **[Senior Software Engineer - Python](https://jobr.pro/job/41172099/senior-software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | Remote | Jun 12 |
 | **[Smiths Group](https://www.smiths.com)** | **[Graduate Software Engineer (Data, Analytics, Automation & AI) 2 Years FTC](https://jobr.pro/job/41172092/graduate-software-engineer-data-analytics-automation-ai-2-years-ftc?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Birmingham, England, United Kingdom | On Site | Jun 12 |
 | **[Anaplan](https://anaplan.com)** | **[Senior Backend Software Engineer (Python)](https://jobr.pro/job/41174616/senior-backend-software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Manchester, United Kingdom | On Site | Jun 12 |
