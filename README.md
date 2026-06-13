@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -22,6 +22,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wayve](https://wayvent.com)** | **[Embedded Automotive Platforms Software Engineer](https://jobr.pro/job/41172013/embedded-automotive-platforms-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 12 |
 | **[Jobs for Humanity](https://www.jobsforhumanity.com)** | **[Senior Software Engineer](https://jobr.pro/job/41169514/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | On Site | Jun 12 |
 | **[PlayStation Global]()** | **[Senior Software Engineer](https://jobr.pro/job/41171365/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom, London | On Site | Jun 12 |
+| **[Kinetic Solutions Group](https://ksg.co.uk)** | **[Software Engineer](https://jobr.pro/job/41183453/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Sheffield | On Site | Jun 12 |
 | **[PortSwigger](https://portswigger.net)** | **[Software Engineer](https://jobr.pro/job/41177148/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Knutsford, England, United Kingdom | On Site | Jun 12 |
 | **[OpenWorks Engineering](http://openworksengineering.com)** | **[Senior Software Engineer](https://jobr.pro/job/41177145/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Prudhoe, England, United Kingdom | On Site | Jun 12 |
 | **[OpenWorks Engineering](http://openworksengineering.com)** | **[Customer Services Software Engineer](https://jobr.pro/job/41169484/customer-services-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Prudhoe, England, United Kingdom | On Site | Jun 12 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Avaloq](https://www.avaloq.com/)** | **[Junior Software Engineer](https://jobr.pro/job/41104005/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Edinburgh, Scotland, United Kingdom | Remote | Jun 08 |
 | **[Scale AI](https://scale.com)** | **[Software Engineer](https://jobr.pro/job/41072292/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 08 |
 | **[Causaly](https://www.causaly.com/)** | **[Staff Software Engineer](https://jobr.pro/job/41077432/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 08 |
-| **[Wise](https://wise.com/)** | **[Senior Software Engineer I - Servicing Platform](https://jobr.pro/job/41123082/senior-software-engineer-i-servicing-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 39 companies | Avg salary: 4.875011878664375e+41k  
+**Current Stats:** 50 jobs | 32% remote | 40 companies | Avg salary: 5.571442147045e+35k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, kubernetes, ai, javascript  
