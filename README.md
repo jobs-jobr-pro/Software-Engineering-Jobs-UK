@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 17, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 17, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,11 +13,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Wise](https://wise.com)** | **[Senior Software Engineer- Regional Payments Platform](https://jobr.pro/job/41237358/senior-software-engineer-regional-payments-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 17 |
+| **[Moonpig](https://www.moonpig.com)** | **[Software Engineer](https://jobr.pro/job/41238374/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 17 |
 | **[Roku](https://www.weareroku.com)** | **[Senior Software Engineer, Search and Recommendations](https://jobr.pro/job/41233598/senior-software-engineer-search-and-recommendations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Cambridge, United Kingdom | On Site | Jun 17 |
 | **[Williams Racing](https://www.williamsf1.com)** | **[Lead Software Engineer](https://jobr.pro/job/41233107/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Grove, Wantage, , United Kingdom | Remote | Jun 17 |
+| **[Nebius](https://careers.nebius.com)** | **[Senior Backend Software Engineer (Observability)](https://jobr.pro/job/41237682/senior-backend-software-engineer-observability?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Amsterdam, Netherlands; Germany; Prague, Czech Republic; Remote - Europe; United Kingdom | Remote | Jun 17 |
 | **[Turnitin, LLC](https://www.turnitin.com)** | **[Senior Software Engineer (UK Remote)](https://jobr.pro/job/41230549/senior-software-engineer-uk-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Birmingham, England, United Kingdom | Remote | Jun 17 |
 | **[Shield AI](https://shield.ai)** | **[Staff Engineer, Software Autonomy Applications (R4962)](https://jobr.pro/job/41230430/staff-engineer-software-autonomy-applications-r4962?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 17 |
+| **[Cogna](https://www.cogna.co)** | **[Software Engineer](https://jobr.pro/job/41234904/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 17 |
 | **[Ramp](https://www.rampant.tv)** | **[Software Engineer, International](https://jobr.pro/job/41234027/software-engineer-international?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 16 |
+| **[Chainguard](https://chainguard.dev)** | **[Software Engineer](https://jobr.pro/job/41237936/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom - Remote | Remote | Jun 16 |
+| **[Chainguard](https://chainguard.dev)** | **[Senior Software Engineer](https://jobr.pro/job/41237932/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom - Remote | Remote | Jun 16 |
+| **[Chainguard](https://chainguard.dev)** | **[Staff Software Engineer](https://jobr.pro/job/41237938/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom - Remote | Remote | Jun 16 |
 | **[Rightmove Careers](https://www.rightmove.co.uk)** | **[Senior Software Engineer I - Backend (Java)](https://jobr.pro/job/41216665/senior-software-engineer-i-backend-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 16 |
 | **[monday.com](https://monday.com)** | **[Senior Software Engineer - Campaigns](https://jobr.pro/job/41215189/senior-software-engineer-campaigns?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 16 |
 | **[monday.com](https://monday.com)** | **[Senior Software Engineer - Enterprise](https://jobr.pro/job/41215188/senior-software-engineer-enterprise?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 16 |
@@ -56,20 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Neo4j](https://neo4j.com)** | **[Software Engineer - Kubernetes & Go](https://jobr.pro/job/41153815/software-engineer-kubernetes-go?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 11 |
 | **[Anthropic](https://www.anthropic.com)** | **[Staff+ Software Engineer, Developer Productivity](https://jobr.pro/job/41149464/staff-software-engineer-developer-productivity?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 11 |
 | **[Wise](https://wise.com/)** | **[Senior Software Engineer - Marketing Platform](https://jobr.pro/job/41151523/senior-software-engineer-marketing-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 11 |
-| **[Rightmove Careers]()** | **[Software Engineer (AI Enablement)](https://jobr.pro/job/41151517/software-engineer-ai-enablement?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 11 |
-| **[Signal](https://www.thesignalgroup.com)** | **[Backend Software Engineer (Python)](https://jobr.pro/job/41169906/backend-software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 11 |
-| **[8th Light](https://8thlight.com)** | **[Principal Software Engineer (Hybrid)](https://jobr.pro/job/41158119/principal-software-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 10 |
-| **[8th Light](https://8thlight.com)** | **[Lead Software Engineer (Hybrid)](https://jobr.pro/job/41158117/lead-software-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 10 |
-| **[Sierra](https://sierra.ai/)** | **[Software Engineer, Agent (Dutch speaking)](https://jobr.pro/job/41142209/software-engineer-agent-dutch-speaking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 10 |
-| **[Checkout.com](https://www.checkout.com/)** | **[Software Engineer I](https://jobr.pro/job/41138308/software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 10 |
-| **[Nearform](https://nearform.com)** | **[Senior AI Software Engineer Javascript or Python (Perm, London, on-site 4 days per week)](https://jobr.pro/job/41132873/senior-ai-software-engineer-javascript-or-python-perm-london-on-site-4-days-per-week?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | UK | On Site | Jun 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 32% remote | 41 companies | Avg salary: 2.4000029000077999e+24k  
+**Current Stats:** 50 jobs | 42% remote | 40 companies | Avg salary: 40000048333463k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** python, kubernetes, ai, javascript  
+**Trending Skills:** python, kubernetes, ai  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
