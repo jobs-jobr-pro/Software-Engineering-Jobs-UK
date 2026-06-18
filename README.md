@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 18, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 18, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Dojo](https://www.dojo.careers)** | **[Software Engineer](https://jobr.pro/job/41243349/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 17 |
+| **[Rockstar Games](https://rockstargames.com)** | **[Senior Software Engineer, FiveM](https://jobr.pro/job/41252512/senior-software-engineer-fivem?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Leeds, England, United Kingdom | On Site | Jun 17 |
 | **[Wise](https://wise.com)** | **[Senior Software Engineer- Regional Payments Platform](https://jobr.pro/job/41237358/senior-software-engineer-regional-payments-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 17 |
 | **[Moonpig](https://www.moonpig.com)** | **[Software Engineer](https://jobr.pro/job/41238374/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 17 |
 | **[Roku](https://www.weareroku.com)** | **[Senior Software Engineer, Search and Recommendations](https://jobr.pro/job/41233598/senior-software-engineer-search-and-recommendations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Cambridge, United Kingdom | On Site | Jun 17 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fanatics Betting & Gaming]()** | **[Senior Software Engineer - Backend](https://jobr.pro/job/41157382/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 11 |
 | **[Neo4j](https://neo4j.com)** | **[Software Engineer - Kubernetes & Go](https://jobr.pro/job/41153815/software-engineer-kubernetes-go?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 11 |
 | **[Anthropic](https://www.anthropic.com)** | **[Staff+ Software Engineer, Developer Productivity](https://jobr.pro/job/41149464/staff-software-engineer-developer-productivity?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 11 |
-| **[Wise](https://wise.com/)** | **[Senior Software Engineer - Marketing Platform](https://jobr.pro/job/41151523/senior-software-engineer-marketing-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 40% remote | 40 companies | Avg salary: 40000048333463k  
+**Current Stats:** 50 jobs | 38% remote | 41 companies | Avg salary: 40000048333463k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, kubernetes, ai  
