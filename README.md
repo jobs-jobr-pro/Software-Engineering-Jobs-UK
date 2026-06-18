@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 17, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 18, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Dojo](https://www.dojo.careers)** | **[Software Engineer](https://jobr.pro/job/41243349/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 17 |
 | **[Wise](https://wise.com)** | **[Senior Software Engineer- Regional Payments Platform](https://jobr.pro/job/41237358/senior-software-engineer-regional-payments-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 17 |
 | **[Moonpig](https://www.moonpig.com)** | **[Software Engineer](https://jobr.pro/job/41238374/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 17 |
 | **[Roku](https://www.weareroku.com)** | **[Senior Software Engineer, Search and Recommendations](https://jobr.pro/job/41233598/senior-software-engineer-search-and-recommendations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Cambridge, United Kingdom | On Site | Jun 17 |
@@ -49,7 +50,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Climax Studios](https://climaxstudios.com)** | **[Software Engineer - Backend Services - MPG - Fully remote from the UK or](https://jobr.pro/job/41200272/software-engineer-backend-services-mpg-fully-remote-from-the-uk-or?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom | Remote | Jun 15 |
 | **[ARQ](https://arq.com)** | **[Senior Software Engineer (Java)](https://jobr.pro/job/41184403/senior-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 12 |
 | **[ARQ](https://arq.com)** | **[Software Engineer (Java Backend)](https://jobr.pro/job/41184400/software-engineer-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 12 |
-| **[Experian](https://www.experian.com)** | **[Senior Software Engineer - Python](https://jobr.pro/job/41172099/senior-software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | Remote | Jun 12 |
 | **[Anaplan](https://anaplan.com)** | **[Senior Backend Software Engineer (Python)](https://jobr.pro/job/41174616/senior-backend-software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Manchester, United Kingdom | On Site | Jun 12 |
 | **[Anaplan](https://anaplan.com)** | **[Associate Backend Software Engineer (Python)](https://jobr.pro/job/41174614/associate-backend-software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Manchester, United Kingdom | On Site | Jun 12 |
 | **[Wayve](https://wayvent.com)** | **[Embedded Automotive Platforms Software Engineer](https://jobr.pro/job/41172013/embedded-automotive-platforms-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 12 |
@@ -66,7 +66,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 50 jobs | 42% remote | 40 companies | Avg salary: 40000048333463k  
+**Current Stats:** 50 jobs | 40% remote | 40 companies | Avg salary: 40000048333463k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, kubernetes, ai  
