@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 19, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 19, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,7 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ocado Group](https://careers.ocadogroup.com)** | **[Senior Robotics Software Engineer](https://jobr.pro/job/41282546/senior-robotics-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Hatfield, United Kingdom | On Site | Jun 19 |
+| **[XYZ Reality](https://www.xyzreality.com)** | **[Embedded Software Engineer - Wearable Systems](https://jobr.pro/job/41281813/embedded-software-engineer-wearable-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London Office | Remote | Jun 19 |
+| **[Chainguard](https://chainguard.dev)** | **[Principal Software Engineer (Athena)](https://jobr.pro/job/41281626/principal-software-engineer-athena?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom - Remote | Remote | Jun 18 |
+| **[Engelhart](https://www.ectp.com)** | **[Software Engineer](https://jobr.pro/job/41278613/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, United Kingdom | On Site | Jun 18 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Mission Software Engineer](https://jobr.pro/job/41263588/mission-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 18 |
+| **[Linq](https://linqapp.com)** | **[Software Engineer](https://jobr.pro/job/41278243/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Birmingham | Remote | Jun 18 |
 | **[Trustpilot](https://corporate.trustpilot.com)** | **[Software Engineer I - Trust Tech](https://jobr.pro/job/41266713/software-engineer-i-trust-tech?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Edinburgh | On Site | Jun 18 |
 | **[Deliveroo](https://deliveroo.co.uk)** | **[Software Engineer II - Full-Stack](https://jobr.pro/job/41260012/software-engineer-ii-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London - The River Building HQ | On Site | Jun 18 |
 | **[ARQ](https://arq.com)** | **[Senior Software Engineer (Java)](https://jobr.pro/job/41262688/senior-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 18 |
@@ -58,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Oxford Quantum Circuits](https://oqc.tech)** | **[Quantum Software Engineer (Calibration Team)](https://jobr.pro/job/41201001/quantum-software-engineer-calibration-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Reading, England, United Kingdom | On Site | Jun 15 |
 | **[Climax Studios](https://climaxstudios.com)** | **[Software Engineer - Backend Services - MPG - Fully remote from the UK or](https://jobr.pro/job/41200272/software-engineer-backend-services-mpg-fully-remote-from-the-uk-or?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom | Remote | Jun 15 |
 | **[Anaplan](https://anaplan.com)** | **[Senior Backend Software Engineer (Python)](https://jobr.pro/job/41174616/senior-backend-software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Manchester, United Kingdom | On Site | Jun 12 |
-| **[Anaplan](https://anaplan.com)** | **[Associate Backend Software Engineer (Python)](https://jobr.pro/job/41174614/associate-backend-software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Manchester, United Kingdom | On Site | Jun 12 |
-| **[Wayve](https://wayvent.com)** | **[Embedded Automotive Platforms Software Engineer](https://jobr.pro/job/41172013/embedded-automotive-platforms-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 12 |
-| **[PlayStation Global]()** | **[Senior Software Engineer](https://jobr.pro/job/41171365/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom, London | On Site | Jun 12 |
-| **[Kinetic Solutions Group](https://ksg.co.uk)** | **[Software Engineer](https://jobr.pro/job/41183453/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Sheffield | On Site | Jun 12 |
 
 ---
 
-**Current Stats:** 49 jobs | 45% remote | 40 companies | Avg salary: 37000040000048k  
+**Current Stats:** 50 jobs | 50% remote | 41 companies | Avg salary: 45000027750030000000k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, ai  
