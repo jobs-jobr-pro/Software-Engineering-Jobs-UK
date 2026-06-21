@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 21, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 21, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Minerva Defence](https://find-and-update.company-information.service.gov.uk)** | **[Software Engineer](https://jobr.pro/job/41308818/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Hereford, England, United Kingdom | On Site | Jun 21 |
 | **[CoMind](https://comind.io)** | **[Staff Software Test Engineer](https://jobr.pro/job/41290240/staff-software-test-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 19 |
 | **[CoMind](https://comind.io)** | **[Staff Software Engineer](https://jobr.pro/job/41290239/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 19 |
 | **[Wise](https://wise.com)** | **[Senior Android Software Engineer - Grow](https://jobr.pro/job/41288727/senior-android-software-engineer-grow?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | On Site | Jun 19 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Palantir Technologies](https://www.palantir.com)** | **[Forward Deployed Software Engineer - Intel, New Grad](https://jobr.pro/job/41200134/forward-deployed-software-engineer-intel-new-grad?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Washington, D.C. | On Site | Jun 15 |
 | **[Cohere](https://cohere.io)** | **[Software Engineer, Agents & Automations](https://jobr.pro/job/41197866/software-engineer-agents-automations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 15 |
 | **[monday.com](https://monday.com)** | **[Experienced Software Engineer - Growth](https://jobr.pro/job/41198600/experienced-software-engineer-growth?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 15 |
-| **[Vonage](https://vonage.com)** | **[Senior Software Engineer – Contact Centre Platform (CCaaS)](https://jobr.pro/job/41198973/senior-software-engineer-contact-centre-platform-ccaas?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Work from Home - UK | On Site | Jun 15 |
 
 ---
 
