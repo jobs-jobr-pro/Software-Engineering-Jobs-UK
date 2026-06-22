@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 22, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[PA Consulting](https://www.paconsulting.com)** | **[Managing Consultant - Software Engineering](https://jobr.pro/job/41314731/managing-consultant-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 22 |
 | **[Minerva Defence](https://find-and-update.company-information.service.gov.uk)** | **[Software Engineer](https://jobr.pro/job/41308818/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Hereford, England, United Kingdom | On Site | Jun 21 |
 | **[CoMind](https://comind.io)** | **[Staff Software Test Engineer](https://jobr.pro/job/41290240/staff-software-test-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 19 |
 | **[CoMind](https://comind.io)** | **[Staff Software Engineer](https://jobr.pro/job/41290239/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 19 |
@@ -38,7 +39,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Civica](https://www.civica.com)** | **[Senior Software Engineer](https://jobr.pro/job/41263609/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom | Remote | Jun 18 |
 | **[Dojo](https://www.dojo.careers)** | **[Software Engineer](https://jobr.pro/job/41243349/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 17 |
 | **[Rockstar Games](https://rockstargames.com)** | **[Senior Software Engineer, FiveM](https://jobr.pro/job/41252512/senior-software-engineer-fivem?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Leeds, England, United Kingdom | On Site | Jun 17 |
-| **[Wise](https://wise.com)** | **[Senior Software Engineer- Regional Payments Platform](https://jobr.pro/job/41237358/senior-software-engineer-regional-payments-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 17 |
 | **[Tower Research Capital](https://towerresearchcapital.com)** | **[Software Engineer, C++](https://jobr.pro/job/41254145/software-engineer-c?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 17 |
 | **[Roku](https://www.weareroku.com)** | **[Senior Software Engineer, Search and Recommendations](https://jobr.pro/job/41233598/senior-software-engineer-search-and-recommendations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Cambridge, United Kingdom | On Site | Jun 17 |
 | **[Williams Racing](https://www.williamsf1.com)** | **[Lead Software Engineer](https://jobr.pro/job/41233107/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Grove, Wantage, , United Kingdom | Remote | Jun 17 |
@@ -66,7 +66,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 50 jobs | 54% remote | 36 companies | Avg salary: 2.6296359833363336e+31k  
+**Current Stats:** 50 jobs | 54% remote | 37 companies | Avg salary: 2.6296359833363336e+31k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
