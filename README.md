@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 22, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 23, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -58,14 +58,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[bet365](https://www.bet365careers.com)** | **[Software Engineer](https://jobr.pro/job/41213063/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Manchester, England, United Kingdom | On Site | Jun 16 |
 | **[monday.com](https://monday.com)** | **[Tech Lead - Software Engineer - Enterprise](https://jobr.pro/job/41215195/tech-lead-software-engineer-enterprise?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 16 |
 | **[Valarian](https://www.valarian.com)** | **[Software Engineer](https://jobr.pro/job/41222818/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 16 |
-| **[Arbor Education](https://arbor-education.com)** | **[Principal Software Engineer (Core Product)](https://jobr.pro/job/41221560/principal-software-engineer-core-product?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom | Remote | Jun 16 |
-| **[Lovey](https://www.lovey.com)** | **[Graduate Full Stack Software Engineer](https://jobr.pro/job/41215722/graduate-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Birmingham, England, United Kingdom | On Site | Jun 16 |
-| **[Dayshape](https://dayshape.com)** | **[Senior Software Quality Engineer](https://jobr.pro/job/41212213/senior-software-quality-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Edinburgh, Scotland, United Kingdom | On Site | Jun 16 |
-| **[Bite Engineering](https://bite.engineering)** | **[Senior Software Engineer](https://jobr.pro/job/41212320/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 15 |
 
 ---
 
-**Current Stats:** 49 jobs | 55% remote | 38 companies | Avg salary: 2.1428587285736826e+37k  
+**Current Stats:** 45 jobs | 56% remote | 34 companies | Avg salary: 2.5000018500026297e+31k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
