@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 23, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 24, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Genius Sports](https://geniussports.com)** | **[.NET Software Engineer](https://jobr.pro/job/41349311/net-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 23 |
+| **[Nebius](https://careers.nebius.com)** | **[Senior Software Engineer (Agentic Search) - Crawler](https://jobr.pro/job/41346597/senior-software-engineer-agentic-search-crawler?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Amsterdam, Netherlands; London, United Kingdom | On Site | Jun 23 |
 | **[ASOS](https://www.asos.com)** | **[Software Engineer (Developer Experience)](https://jobr.pro/job/41342340/software-engineer-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | Remote | Jun 23 |
 | **[Roku](https://www.weareroku.com)** | **[Senior Software Engineer, Ad Auctions](https://jobr.pro/job/41343279/senior-software-engineer-ad-auctions?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Manchester, United Kingdom | On Site | Jun 23 |
 | **[Samsara](https://www.samsara.com)** | **[Senior Software Engineer - Safety Detection Precision](https://jobr.pro/job/41342741/senior-software-engineer-safety-detection-precision?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London - UK2 | On Site | Jun 23 |
@@ -54,12 +56,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nebius](https://careers.nebius.com)** | **[Senior Backend Software Engineer (Observability)](https://jobr.pro/job/41237682/senior-backend-software-engineer-observability?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Amsterdam, Netherlands; Germany; Prague, Czech Republic; Remote - Europe; United Kingdom | Remote | Jun 17 |
 | **[Turnitin, LLC](https://www.turnitin.com)** | **[Senior Software Engineer (UK Remote)](https://jobr.pro/job/41230549/senior-software-engineer-uk-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Birmingham, England, United Kingdom | Remote | Jun 17 |
 | **[Shield AI](https://shield.ai)** | **[Staff Engineer, Software Autonomy Applications (R4962)](https://jobr.pro/job/41230430/staff-engineer-software-autonomy-applications-r4962?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 17 |
-| **[Cogna](https://www.cogna.co)** | **[Software Engineer](https://jobr.pro/job/41234904/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 17 |
-| **[Ramp](https://www.rampant.tv)** | **[Software Engineer, International](https://jobr.pro/job/41234027/software-engineer-international?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 16 |
 
 ---
 
-**Current Stats:** 43 jobs | 49% remote | 35 companies | Avg salary: 2.5000018500026297e+31k  
+**Current Stats:** 43 jobs | 47% remote | 34 companies | Avg salary: 2.5000018500026297e+31k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react  
