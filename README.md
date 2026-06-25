@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 25, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 25, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Addepar](https://addepar.com)** | **[Sr. Software Engineer - Data Control Frameworks](https://jobr.pro/job/41389350/sr-software-engineer-data-control-frameworks?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Edinburgh, UK | On Site | Jun 25 |
+| **[PA Consulting](https://www.paconsulting.com)** | **[Managing Consultant - Software Engineering](https://jobr.pro/job/41389128/managing-consultant-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Bristol, England, United Kingdom | Remote | Jun 25 |
+| **[Wise](https://wise.com)** | **[Senior Software Engineer II - Send Core](https://jobr.pro/job/41386856/senior-software-engineer-ii-send-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | Remote | Jun 25 |
+| **[Wise](https://wise.com)** | **[Senior Software Engineer I - Onboarding Experience](https://jobr.pro/job/41386857/senior-software-engineer-i-onboarding-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | Remote | Jun 25 |
+| **[Orbital18 West 18th Street](https://www.orbital.co.nz)** | **[Software Engineer](https://jobr.pro/job/41385098/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 25 |
 | **[Esri](https://www.esri.com)** | **[C++ Software Engineer I - ArcGIS Maps SDKs for Native Apps](https://jobr.pro/job/41374246/c-software-engineer-i-arcgis-maps-sdks-for-native-apps?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Cardiff, UK | On Site | Jun 24 |
 | **[Wise](https://wise.com)** | **[Senior Software Engineer I – Contacts Team](https://jobr.pro/job/41369533/senior-software-engineer-i-contacts-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | On Site | Jun 24 |
 | **[Wise](https://wise.com)** | **[Senior Software Engineer I - Personal & Business Pricing Team](https://jobr.pro/job/41369534/senior-software-engineer-i-personal-business-pricing-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | On Site | Jun 24 |
@@ -29,7 +34,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Graphcore](https://graphcore.ai)** | **[2026 Graduate Software Engineer - Triton](https://jobr.pro/job/41366063/2026-graduate-software-engineer-triton?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Bristol, UK | On Site | Jun 24 |
 | **[Insights Learning & Development Ltd](https://www.insights.com)** | **[Copy of Senior Software Engineer (Node.js)](https://jobr.pro/job/41362953/copy-of-senior-software-engineer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Remote, , United Kingdom | Remote | Jun 24 |
 | **[Avaloq](https://www.avaloq.com)** | **[Full Stack Angular Software Engineer](https://jobr.pro/job/41361956/full-stack-angular-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Edinburgh, Scotland, United Kingdom | Remote | Jun 24 |
-| **[PA Consulting](https://www.paconsulting.com)** | **[Managing Consultant - Software Engineering](https://jobr.pro/job/41361883/managing-consultant-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 24 |
 | **[Kraken](https://kraken.tech)** | **[Lead Software Engineer](https://jobr.pro/job/41360945/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 24 |
 | **[Perk](https://www.perk.com)** | **[Senior Software Engineer - Finance Experience](https://jobr.pro/job/41360728/senior-software-engineer-finance-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Edinburgh | On Site | Jun 24 |
 | **[Appvia](http://appvia.io)** | **[Principal Software Engineer](https://jobr.pro/job/41360097/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 24 |
@@ -44,7 +48,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[FacultyModern Slavery StatementPrivacy PolicyXLinkedInYouTube](https://www.wearefaculty.com)** | **[Lead Software Engineer](https://jobr.pro/job/41331065/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | UK - London | On Site | Jun 22 |
 | **[Astronomer](https://astronomer.io)** | **[Senior Software Engineer, Platform](https://jobr.pro/job/41333549/senior-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 22 |
 | **[Ravio](https://ravio.com)** | **[Lead Software Engineer](https://jobr.pro/job/41321089/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 22 |
-| **[Wise](https://wise.com)** | **[Senior Software Engineer I - Onboarding Experience](https://jobr.pro/job/41316412/senior-software-engineer-i-onboarding-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | Remote | Jun 22 |
 | **[Fireblocks](https://www.fireblocks.com)** | **[Software Engineer - Solana](https://jobr.pro/job/41319073/software-engineer-solana?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 22 |
 | **[Infinit Studios](https://infinit.com)** | **[Software Engineer](https://jobr.pro/job/41328195/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 22 |
 | **[Minerva Defence](https://find-and-update.company-information.service.gov.uk)** | **[Software Engineer](https://jobr.pro/job/41308818/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Hereford, England, United Kingdom | On Site | Jun 21 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[XYZ Reality](https://www.xyzreality.com)** | **[Embedded Software Engineer - Wearable Systems](https://jobr.pro/job/41281813/embedded-software-engineer-wearable-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London Office | Remote | Jun 19 |
 | **[Chainguard](https://chainguard.dev)** | **[Principal Software Engineer (Athena)](https://jobr.pro/job/41281626/principal-software-engineer-athena?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom - Remote | Remote | Jun 18 |
 | **[Engelhart](https://www.ectp.com)** | **[Software Engineer](https://jobr.pro/job/41278613/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, United Kingdom | On Site | Jun 18 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Mission Software Engineer](https://jobr.pro/job/41263588/mission-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 18 |
-| **[Linq](https://linqapp.com)** | **[Software Engineer](https://jobr.pro/job/41278243/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Birmingham | Remote | Jun 18 |
-| **[Trustpilot](https://corporate.trustpilot.com)** | **[Software Engineer I - Trust Tech](https://jobr.pro/job/41266713/software-engineer-i-trust-tech?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Edinburgh | On Site | Jun 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 37 companies | Avg salary: 5.040095029130001e+52k  
+**Current Stats:** 50 jobs | 32% remote | 36 companies | Avg salary: 1.3181828272737272e+58k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, kubernetes, ai  
