@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 26, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 26, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ALTEN](https://www.alten.com)** | **[Software engineer (LABVIEW experience)](https://jobr.pro/job/41417365/software-engineer-labview-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Bicester, England, United Kingdom | Remote | Jun 26 |
 | **[Mark43](https://mark43.com)** | **[Software Engineer - Integrations](https://jobr.pro/job/41412506/software-engineer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Manchester | On Site | Jun 25 |
 | **[Figma](https://www.figma.com)** | **[Manager, Software Engineering - AI Product (London, United Kingdom)](https://jobr.pro/job/41397116/manager-software-engineering-ai-product-london-united-kingdom?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England | On Site | Jun 25 |
 | **[Grafana Labs](https://grafana.org.cn)** | **[Senior Software Engineer - Grafana Cloud Observability Provider \| UK \| Remote](https://jobr.pro/job/41399791/senior-software-engineer-grafana-cloud-observability-provider-uk-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom (Remote) | Remote | Jun 25 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CoMind](https://comind.io)** | **[Staff Software Engineer](https://jobr.pro/job/41290239/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 19 |
 | **[CreateFuture](https://createfuture.com)** | **[Lead Software Engineer (.NET)](https://jobr.pro/job/41293448/lead-software-engineer-net?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Glasgow | On Site | Jun 19 |
 | **[CreateFuture](https://createfuture.com)** | **[Senior Software Engineer (.NET)](https://jobr.pro/job/41293449/senior-software-engineer-net?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Glasgow | On Site | Jun 19 |
-| **[Ocado Group](https://careers.ocadogroup.com)** | **[Senior Robotics Software Engineer](https://jobr.pro/job/41282546/senior-robotics-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Hatfield, United Kingdom | On Site | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 36 companies | Avg salary: 9.175512083342582e+63k  
+**Current Stats:** 50 jobs | 26% remote | 36 companies | Avg salary: 9.175512083342582e+63k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, kubernetes, ai  
