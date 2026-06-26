@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 26, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 26, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,6 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ARQ](https://arq.com)** | **[Lead Software Engineer (Java)](https://jobr.pro/job/41429318/lead-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 26 |
+| **[ARQ](https://arq.com)** | **[Senior Software Engineer (Java)](https://jobr.pro/job/41429317/senior-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 26 |
+| **[ARQ](https://arq.com)** | **[Software Engineer (Java Backend)](https://jobr.pro/job/41429322/software-engineer-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 26 |
+| **[Wise](https://wise.com)** | **[Senior Software Engineer II - Investments - Java](https://jobr.pro/job/41427166/senior-software-engineer-ii-investments-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | On Site | Jun 26 |
+| **[Wise](https://wise.com)** | **[Senior Software Engineer I - Investments](https://jobr.pro/job/41427167/senior-software-engineer-i-investments?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | On Site | Jun 26 |
+| **[Wise](https://wise.com)** | **[Senior Software Engineer I - Account Integrity Team - Fincrime](https://jobr.pro/job/41423242/senior-software-engineer-i-account-integrity-team-fincrime?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 26 |
+| **[Artlogic]()** | **[Senior Software Engineer](https://jobr.pro/job/41428714/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 26 |
 | **[ALTEN](https://www.alten.com)** | **[Software engineer (LABVIEW experience)](https://jobr.pro/job/41417365/software-engineer-labview-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Bicester, England, United Kingdom | Remote | Jun 26 |
 | **[Mark43](https://mark43.com)** | **[Software Engineer - Integrations](https://jobr.pro/job/41412506/software-engineer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Manchester | On Site | Jun 25 |
 | **[Figma](https://www.figma.com)** | **[Manager, Software Engineering - AI Product (London, United Kingdom)](https://jobr.pro/job/41397116/manager-software-engineering-ai-product-london-united-kingdom?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England | On Site | Jun 25 |
@@ -34,7 +41,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[8th Light](https://8thlight.com)** | **[Lead Software Engineer (Hybrid)](https://jobr.pro/job/41373949/lead-software-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 24 |
 | **[8th Light](https://8thlight.com)** | **[Principal Software Engineer (Hybrid)](https://jobr.pro/job/41373951/principal-software-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 24 |
 | **[Radius Limited](https://www.radius.com)** | **[Software Engineer - Next.js and Laravel](https://jobr.pro/job/41367946/software-engineer-nextjs-and-laravel?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Crewe, England, United Kingdom | On Site | Jun 24 |
-| **[Radius Limited](https://www.radius.com)** | **[Senior Software Engineer - Next.js, React, Laravel](https://jobr.pro/job/41367947/senior-software-engineer-nextjs-react-laravel?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Crewe, England, United Kingdom | On Site | Jun 24 |
 | **[Graphcore](https://graphcore.ai)** | **[Software Engineer in Build Engineering](https://jobr.pro/job/41366076/software-engineer-in-build-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 24 |
 | **[Graphcore](https://graphcore.ai)** | **[Software Infrastructure Kubernetes Engineer](https://jobr.pro/job/41366081/software-infrastructure-kubernetes-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 24 |
 | **[Graphcore](https://graphcore.ai)** | **[Senior Software Infrastructure Engineer](https://jobr.pro/job/41366072/senior-software-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 24 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Astronomer](https://astronomer.io)** | **[Senior Software Engineer, Platform](https://jobr.pro/job/41333549/senior-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 22 |
 | **[Ravio](https://ravio.com)** | **[Lead Software Engineer](https://jobr.pro/job/41321089/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 22 |
 | **[Fireblocks](https://www.fireblocks.com)** | **[Software Engineer - Solana](https://jobr.pro/job/41319073/software-engineer-solana?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 22 |
-| **[Infinit Studios](https://infinit.com)** | **[Software Engineer](https://jobr.pro/job/41328195/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 22 |
-| **[Minerva Defence](https://find-and-update.company-information.service.gov.uk)** | **[Software Engineer](https://jobr.pro/job/41308818/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Hereford, England, United Kingdom | On Site | Jun 21 |
-| **[CoMind](https://comind.io)** | **[Staff Software Test Engineer](https://jobr.pro/job/41290240/staff-software-test-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 19 |
-| **[CoMind](https://comind.io)** | **[Staff Software Engineer](https://jobr.pro/job/41290239/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 19 |
-| **[CreateFuture](https://createfuture.com)** | **[Lead Software Engineer (.NET)](https://jobr.pro/job/41293448/lead-software-engineer-net?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Glasgow | On Site | Jun 19 |
-| **[CreateFuture](https://createfuture.com)** | **[Senior Software Engineer (.NET)](https://jobr.pro/job/41293449/senior-software-engineer-net?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Glasgow | On Site | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 36 companies | Avg salary: 9.175512083342582e+63k  
+**Current Stats:** 50 jobs | 34% remote | 35 companies | Avg salary: 1.1153854692316231e+70k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, kubernetes, ai  
