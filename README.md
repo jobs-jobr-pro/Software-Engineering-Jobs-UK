@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 26, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 27, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,9 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[ARQ](https://arq.com)** | **[Lead Software Engineer (Java)](https://jobr.pro/job/41429318/lead-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 26 |
-| **[ARQ](https://arq.com)** | **[Senior Software Engineer (Java)](https://jobr.pro/job/41429317/senior-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 26 |
-| **[ARQ](https://arq.com)** | **[Software Engineer (Java Backend)](https://jobr.pro/job/41429322/software-engineer-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 26 |
+| **[Xplor](https://www.xplortechnologies.com)** | **[Software Engineer](https://jobr.pro/job/41436184/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Newcastle, , United Kingdom | Remote | Jun 26 |
+| **[ARQ](https://arq.com)** | **[Lead Software Engineer (Java)](https://jobr.pro/job/41432121/lead-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 26 |
+| **[ARQ](https://arq.com)** | **[Senior Software Engineer (Java)](https://jobr.pro/job/41432120/senior-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 26 |
+| **[ARQ](https://arq.com)** | **[Software Engineer (Java Backend)](https://jobr.pro/job/41432125/software-engineer-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 26 |
 | **[Wise](https://wise.com)** | **[Senior Software Engineer II - Investments - Java](https://jobr.pro/job/41427166/senior-software-engineer-ii-investments-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | On Site | Jun 26 |
 | **[Wise](https://wise.com)** | **[Senior Software Engineer I - Investments](https://jobr.pro/job/41427167/senior-software-engineer-i-investments?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | On Site | Jun 26 |
 | **[Wise](https://wise.com)** | **[Senior Software Engineer I - Account Integrity Team - Fincrime](https://jobr.pro/job/41423242/senior-software-engineer-i-account-integrity-team-fincrime?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 26 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[FacultyModern Slavery StatementPrivacy PolicyXLinkedInYouTube](https://www.wearefaculty.com)** | **[Lead Software Engineer](https://jobr.pro/job/41331065/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | UK - London | On Site | Jun 22 |
 | **[Astronomer](https://astronomer.io)** | **[Senior Software Engineer, Platform](https://jobr.pro/job/41333549/senior-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 22 |
 | **[Ravio](https://ravio.com)** | **[Lead Software Engineer](https://jobr.pro/job/41321089/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 22 |
-| **[Fireblocks](https://www.fireblocks.com)** | **[Software Engineer - Solana](https://jobr.pro/job/41319073/software-engineer-solana?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 35 companies | Avg salary: 1.1153854692316231e+70k  
+**Current Stats:** 50 jobs | 36% remote | 35 companies | Avg salary: 1.1153854692316231e+70k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, kubernetes, ai  
