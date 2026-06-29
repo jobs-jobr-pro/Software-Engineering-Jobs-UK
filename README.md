@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 29, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 29, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Wise](https://wise.com)** | **[Sr Software Engineer I - Fincrime](https://jobr.pro/job/41463022/sr-software-engineer-i-fincrime?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | Remote | Jun 29 |
 | **[BJAK](https://bjak.my)** | **[iOS Software Engineer](https://jobr.pro/job/41457758/ios-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom | Remote | Jun 28 |
 | **[BJAK](https://bjak.my)** | **[Android Software Engineer](https://jobr.pro/job/41457761/android-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom | Remote | Jun 28 |
 | **[Xplor](https://www.xplortechnologies.com)** | **[Software Engineer](https://jobr.pro/job/41436184/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Newcastle, , United Kingdom | Remote | Jun 26 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Samsara](https://www.samsara.com)** | **[Senior Software Engineer - Safety Detection Precision](https://jobr.pro/job/41342741/senior-software-engineer-safety-detection-precision?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London - UK2 | On Site | Jun 23 |
 | **[Neo4j](https://neo4j.com)** | **[Software Engineer - AI Agents](https://jobr.pro/job/41352032/software-engineer-ai-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 23 |
 | **[CreateFuture](https://createfuture.com)** | **[Senior Software Engineer (Full Stack) - React](https://jobr.pro/job/41342611/senior-software-engineer-full-stack-react?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Edinburgh | On Site | Jun 23 |
-| **[FacultyModern Slavery StatementPrivacy PolicyXLinkedInYouTube](https://www.wearefaculty.com)** | **[Lead Software Engineer](https://jobr.pro/job/41331065/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | UK - London | On Site | Jun 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 34 companies | Avg salary: 1.2083342583342583e+64k  
+**Current Stats:** 50 jobs | 38% remote | 33 companies | Avg salary: 8.53847269231623e+69k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, kubernetes, ai  
