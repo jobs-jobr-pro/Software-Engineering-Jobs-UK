@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 29, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -28,7 +28,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ARQ](https://arq.com)** | **[Software Engineer (Java Backend)](https://jobr.pro/job/41432125/software-engineer-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | Remote | Jun 26 |
 | **[Wise](https://wise.com)** | **[Senior Software Engineer II - Investments - Java](https://jobr.pro/job/41427166/senior-software-engineer-ii-investments-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | On Site | Jun 26 |
 | **[Wise](https://wise.com)** | **[Senior Software Engineer I - Investments](https://jobr.pro/job/41427167/senior-software-engineer-i-investments?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | On Site | Jun 26 |
-| **[Wise](https://wise.com)** | **[Senior Software Engineer I - Account Integrity Team - Fincrime](https://jobr.pro/job/41423242/senior-software-engineer-i-account-integrity-team-fincrime?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 26 |
 | **[Artlogic]()** | **[Senior Software Engineer](https://jobr.pro/job/41428714/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 26 |
 | **[Mark43](https://mark43.com)** | **[Software Engineer - Integrations](https://jobr.pro/job/41412506/software-engineer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Manchester | On Site | Jun 25 |
 | **[Figma](https://www.figma.com)** | **[Manager, Software Engineering - AI Product (London, United Kingdom)](https://jobr.pro/job/41397116/manager-software-engineering-ai-product-london-united-kingdom?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England | On Site | Jun 25 |
@@ -63,10 +62,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Genius Sports](https://geniussports.com)** | **[.NET Software Engineer](https://jobr.pro/job/41349311/net-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | On Site | Jun 23 |
 | **[Nebius](https://careers.nebius.com)** | **[Senior Software Engineer (Agentic Search) - Crawler](https://jobr.pro/job/41346597/senior-software-engineer-agentic-search-crawler?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Amsterdam, Netherlands; London, United Kingdom | On Site | Jun 23 |
 | **[Corgi Insurance](https://corgi.com)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/41358007/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 23 |
+| **[ASOS](https://www.asos.com)** | **[Software Engineer (Developer Experience)](https://jobr.pro/job/41342340/software-engineer-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, England, United Kingdom | Remote | Jun 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 32 companies | Avg salary: 3.3333416500074e+81k  
+**Current Stats:** 50 jobs | 38% remote | 33 companies | Avg salary: 3.571437482150786e+75k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, ai  
