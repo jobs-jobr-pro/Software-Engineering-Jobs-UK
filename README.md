@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs in United Kingdom — 2026
 
-<sub><small>Last updated: Jun 30, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jul 01, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings in United Kingdom** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Capital on Tap](https://capitalontap.com)** | **[Software Engineer - Banking](https://jobr.pro/job/41508891/software-engineer-banking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 30 |
+| **[Carbon Point](https://carbonpoint.co.uk)** | **[2026 - Software Engineer](https://jobr.pro/job/41506119/2026-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Stamford, Connecticut, United States, London | On Site | Jun 30 |
 | **[Versant](https://versantsolutions.com)** | **[Software Engineer](https://jobr.pro/job/41502101/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Belfast, ANTRIM, United Kingdom | Remote | Jun 30 |
+| **[Hopper](https://hopper.com)** | **[Staff Backend Software Engineer](https://jobr.pro/job/41511204/staff-backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | United Kingdom - Remote | Remote | Jun 30 |
 | **[Wayve](https://wayve.ai)** | **[Software Engineer (Product, AI Portal)](https://jobr.pro/job/41498883/software-engineer-product-ai-portal?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London | On Site | Jun 30 |
 | **[Wise](https://wise.com)** | **[Senior Software Engineer - Marketing Platform](https://jobr.pro/job/41495263/senior-software-engineer-marketing-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | Remote | Jun 30 |
 | **[Wise](https://wise.com)** | **[Senior Software Engineer I - Personal & Business Pricing Team](https://jobr.pro/job/41494146/senior-software-engineer-i-personal-business-pricing-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | On Site | Jun 30 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Graphcore](https://graphcore.ai)** | **[Software Infrastructure Kubernetes Engineer](https://jobr.pro/job/41366081/software-infrastructure-kubernetes-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 24 |
 | **[Graphcore](https://graphcore.ai)** | **[Senior Software Infrastructure Engineer](https://jobr.pro/job/41366072/senior-software-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, UK | On Site | Jun 24 |
 | **[Wise](https://wise.com)** | **[Staff Software Engineer - Global KYC and Onboarding](https://jobr.pro/job/41365304/staff-software-engineer-global-kyc-and-onboarding?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | London, , United Kingdom | On Site | Jun 24 |
-| **[Graphcore](https://graphcore.ai)** | **[2026 Graduate Software Engineer - Triton](https://jobr.pro/job/41366063/2026-graduate-software-engineer-triton?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Bristol, UK | On Site | Jun 24 |
-| **[Insights Learning & Development Ltd](https://www.insights.com)** | **[Copy of Senior Software Engineer (Node.js)](https://jobr.pro/job/41362953/copy-of-senior-software-engineer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Remote, , United Kingdom | Remote | Jun 24 |
-| **[Avaloq](https://www.avaloq.com)** | **[Full Stack Angular Software Engineer](https://jobr.pro/job/41361956/full-stack-angular-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs-uk)** | Edinburgh, Scotland, United Kingdom | Remote | Jun 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 44% remote | 31 companies | Avg salary: 7.4000074000074e+81k  
+**Current Stats:** 50 jobs | 42% remote | 32 companies | Avg salary: 7.4000074000074e+81k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** kubernetes, ai  
